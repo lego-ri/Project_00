@@ -10,3 +10,4 @@ print("Hello {}".format(name))
 # zmena my_new_feature pro git
 print("My New Feature")
 
+prind("Github zkouska")
